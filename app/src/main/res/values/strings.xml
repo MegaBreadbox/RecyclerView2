@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">RecyclerView2</string>
+    <string-array name="pig_full_text">
+        <item> Country Pig</item>
+        <item> City Pig</item>
+        <item> Resort Pig</item>
+    </string-array>
+
+
 </resources>
