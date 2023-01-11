@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     private ArrayList<PigModel> pigList = new ArrayList<>();
 
-    int[] pigPicture = {R.drawable.southern_pig, R.drawable.city_pig, R.drawable.resort_pig};
+    private int[] pigPicture = {R.drawable.southern_pig, R.drawable.city_pig, R.drawable.resort_pig};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
